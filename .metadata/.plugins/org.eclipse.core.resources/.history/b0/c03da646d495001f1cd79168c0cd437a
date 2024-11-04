@@ -1,0 +1,13 @@
+package p1;
+
+public class reverse {
+
+	public static void main(String[] args) {
+		
+		 int a=78;
+		 byte b1=(byte)i;
+		 
+		
+	}
+
+}

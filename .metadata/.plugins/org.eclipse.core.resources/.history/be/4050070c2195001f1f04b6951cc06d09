@@ -1,0 +1,12 @@
+package p1;
+
+public class Stringmethods {
+
+	public static void main(String[] args) {
+		String text ="hello this is vijay pusala";
+		string[] result =text.split(" ");
+		System.out.println(result + " ,");
+
+	}
+
+}

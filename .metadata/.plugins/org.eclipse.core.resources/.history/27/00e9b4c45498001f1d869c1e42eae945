@@ -1,0 +1,18 @@
+package com.oops;
+
+public class EducationalLoan extends Loan {
+	void Student(String name,String address) {
+		System.out.println("name is "+name+"address is"+address);
+	}
+
+
+	public static void main(String[] args) {
+		EducationalLoan educationalLoan=new EducationalLoan();
+		educationalLoan.bank("vijay", 24, 1234434,"educationalloan" );
+		educationalLoan.Student("sbi", "hyd");
+		System.out.println(educationalLoan.toString());
+//		// TODO Auto-generated method stub
+
+	}
+
+}

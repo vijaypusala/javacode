@@ -1,0 +1,6 @@
+apply the background image to the body html body diff between the background image and background attachment
+
+
+Taska.
+
+transitions.

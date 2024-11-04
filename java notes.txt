@@ -1,0 +1,23 @@
+how many times obj is created it many times instance block is executed
+instance block-is executed before execution of every constructor
+constructor-
+
+
+
+wrapper classes.. data types are or variables are called obj in wrapper classes.
+
+task: find factorial of given number
+Fibonacci series up to 100
+write a switch statement which prints the even odd Fibonacci factorial based on user input.
+armstrong number.1771
+
+
+insertion and deletion
+
+
+1.reverse the string without using the inbuilt functions and iterate the string
+2.iterate each and every character in a string and print separately an print all same characters in the sequence order.
+3.count all non repeating characters in the user input string and print count.
+
+
+

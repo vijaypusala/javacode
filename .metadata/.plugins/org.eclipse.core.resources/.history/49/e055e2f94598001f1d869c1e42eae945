@@ -1,0 +1,19 @@
+package com.oops;
+
+public class School {
+	
+	
+   void  studentdetails()  {
+	   String name="vijay pusala";
+		int clas=10;
+		int rollno=101;
+		int age=17;
+
+   }
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

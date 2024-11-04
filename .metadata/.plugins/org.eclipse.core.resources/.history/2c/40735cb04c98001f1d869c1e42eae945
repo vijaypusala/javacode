@@ -1,0 +1,13 @@
+package com.oops;
+
+public class Country {
+	
+	void States(String states,int mlas,int cms) {
+		System.out.println("no. of states is"+45+"no. of mlas"+440+"no.of cms"+22);
+	}
+	public static void main(String[] args) {
+		Country countryobj=new Country();
+		
+	}
+
+}

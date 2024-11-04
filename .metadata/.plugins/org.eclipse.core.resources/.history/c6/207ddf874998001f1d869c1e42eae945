@@ -1,0 +1,15 @@
+package com.oops;
+
+public class Child extends Parent {
+	
+	void assects( String car,int plot,int bankbalance) {
+			
+	}
+	public static void main(String[] args) {
+		Child childobj=new Child();
+		childobj.assects();
+		childobj.properties("shine", 8, 3);
+		childobj.assects("fortuner", 2, 10000);
+	}
+
+}

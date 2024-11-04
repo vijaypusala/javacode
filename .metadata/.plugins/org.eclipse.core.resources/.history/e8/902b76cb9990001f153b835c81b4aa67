@@ -1,0 +1,16 @@
+package p1;
+
+public class patterns {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int n=4;
+
+				 for(let i=0;i<=n;i++)
+			     {
+		    System.out.println();("****")
+				    
+				 }
+	}
+
+}
